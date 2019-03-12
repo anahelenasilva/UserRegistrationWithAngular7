@@ -27,7 +27,7 @@ namespace WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc(); //.SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddDbContext<AuthenticationContext>(options => options
                                             .UseSqlServer(Configuration.GetConnectionString("DevConnection")));
@@ -42,7 +42,7 @@ namespace WebAPI
                 options.Password.RequiredLength = 4;
             });
 
-            //services.AddCors();
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -53,9 +53,9 @@ namespace WebAPI
                 app.UseDeveloperExceptionPage();
             }
 
-            //app.UseCors(options => options.WithOrigins("http://localhost:4200")
-            //                  .AllowAnyMethod()
-            //                  .AllowAnyHeader());
+            app.UseCors(options => options.WithOrigins("http://localhost:4200")
+                              .AllowAnyMethod()
+                              .AllowAnyHeader());
 
             app.UseAuthentication();
 

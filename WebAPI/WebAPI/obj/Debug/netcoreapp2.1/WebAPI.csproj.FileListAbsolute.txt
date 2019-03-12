@@ -1,0 +1,13 @@
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
