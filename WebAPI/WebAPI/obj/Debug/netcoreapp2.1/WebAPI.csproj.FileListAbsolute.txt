@@ -11,3 +11,17 @@ D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\We
 D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
 D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
 D:\Estudos\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+D:\Estudos\AspNetCoreWithAngular\UserRegistrationWithAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
